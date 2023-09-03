@@ -1,4 +1,4 @@
-#DangerZonePage
+DangerZonePage
 
 About
 
